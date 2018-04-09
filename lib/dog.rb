@@ -1,4 +1,4 @@
-def dog 
+class Dog 
     
     def breed=(dog_breed)
       @dog_breed = dog_breed
