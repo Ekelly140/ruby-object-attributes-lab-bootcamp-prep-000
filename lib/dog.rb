@@ -1,11 +1,11 @@
 def dog 
     
-    def breed=(breed)
-      @breed = breed
+    def breed=(dog_breed)
+      @dog_breed = dog_breed
     end 
     
     def breed 
-      @breed
+      @dog_breed
     end 
     
 end 
