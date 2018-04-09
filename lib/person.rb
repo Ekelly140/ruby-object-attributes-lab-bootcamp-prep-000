@@ -1,9 +1,9 @@
 class person 
   def job=(person_job)
-    @place = place
+    @job = person_job
   end 
   def job 
-    @place
+    @job
   end 
   
 end 
