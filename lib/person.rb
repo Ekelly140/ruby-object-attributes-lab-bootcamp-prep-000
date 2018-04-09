@@ -1,5 +1,5 @@
-def person 
-  def job=(place)
+class person 
+  def job=(person_job)
     @place = place
   end 
   def job 
